@@ -616,4 +616,4 @@ Gobang/
 
 ## License
 
-暂未指定开源协议。
+本项目使用 MIT License 开源，详见 [LICENSE](LICENSE)。

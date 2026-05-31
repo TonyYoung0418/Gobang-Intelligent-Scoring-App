@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">五子棋智能评分系统</string>
+    <string name="title_activity_set_server">SetServerActivity</string>
+    <string name="prompt_email">请输入服务器IP地址</string>
+    <string name="action_sign_in">确认</string>
+    <string name="action_sign_in_short">确认</string>
+    <string name="welcome">"Welcome !"</string>
+</resources>

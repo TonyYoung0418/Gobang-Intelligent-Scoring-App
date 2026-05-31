@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Local IDE state
+.idea/
+.vscode/
+.vs/
+*.iml
+
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Visual Studio / C++
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.log
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.ipch
+*.VC.db
+*.opendb
+ipch/

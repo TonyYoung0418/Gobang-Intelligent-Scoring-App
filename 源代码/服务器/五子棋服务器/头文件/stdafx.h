@@ -1,0 +1,42 @@
+#pragma once
+#include <stdio.h>
+#include "httplib.h"
+#include <Windows.h>
+#include <windowsx.h>
+#include <conio.h>
+#include <iostream>
+#include <cstdlib>
+#include <string>
+#include <initializer_list>
+#include <algorithm>
+#include <cstdio>
+#include <cctype>
+#include <ctime>
+#include <iterator>
+#include <functional>
+#include <utility>
+#include <sstream>
+#include <cmath>
+#include <vector>
+#include <algorithm>
+#include <thread>
+#include <bitset>
+#include <tuple>
+#include <thread>
+#include <future>
+#include <map>
+#include <random>
+#pragma comment(lib, "winmm.lib")
+#ifdef max
+#undef max
+#endif
+#ifdef min
+#undef min
+#endif
+//#define FINAL_RELEASE
+#include "constant.h"
+#include "tools.h"
+#include "stack.h"
+#include "graph.h"
+#include "engine.h"
+#include "json.hpp"
